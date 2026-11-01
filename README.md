@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Yogesh 👋
 
-<!--
-**yogeshkmr805/yogeshkmr805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Devops Engineer, works on application and infrastructure support for core banking systems. I have over 5+ years of experience, mostly with Finacle.
 
-Here are some ideas to get you started:
+## 🛠️ What I work with
+- **Cloud:** AWS (EC2, ECS, Fargate, S3, RDS)
+- **Containers and orchestration:** Docker, Kubernetes
+- **Infrastructure as code:** Terraform
+- **CI/CD and monitoring:** GitLab CI/CD, Datadog
+- **Databases and scripting:** Oracle SQL, PL/SQL, Unix Shell scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 What I'm learning
+- Deeper DevOps practices and infrastructure automation
+
+## 📫 Connect with me
+- LinkedIn: [https://www.linkedin.com/in/yogeshkmrsingh](https://www.linkedin.com/in/yogeshkmrsingh)
+- Email: yogeshkmr805@gamil.com
