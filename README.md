@@ -1,6 +1,10 @@
+<div align="center">
+  
 # Hi, I'm Yogesh 👋
 
 I'm a Devops Engineer, works on application and infrastructure support for core banking systems. I have over 5+ years of experience, mostly with Finacle.
+
+</div>
 
 ## 🛠️ What I work with
 - **Cloud:** AWS (EC2, ECS, Fargate, S3, RDS)
